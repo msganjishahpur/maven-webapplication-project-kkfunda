@@ -5,11 +5,11 @@
 	<groupId>com.kk</groupId>
 	<artifactId>maven-web-application-kkfunda</artifactId>
 	<packaging>war</packaging>
-	<version>11.2.3-SNAPSHOT</version>
+	<version>11.2.3</version>
 	
 	<name>maven-web-application</name>
 
-	<description>Maven Web Project for Java Project</description>
+	<description>Maven My Web Project for Java Project</description>
 
 	<organization>
 		<name>KK FUNDA</name>
