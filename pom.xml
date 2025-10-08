@@ -5,7 +5,7 @@
 	<groupId>com.kk</groupId>
 	<artifactId>maven-web-application-kkfunda</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.3-SNAPSHOT</version>
 	
 	<name>maven-web-application</name>
 
@@ -98,7 +98,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Shreeyan Releases Nexus Repository</name>
-	      <url>http://3.110.107.130:8081/repository/jio-snapshot/</url>
+	      <url>http://3.110.107.130:8081/repository/jio-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
