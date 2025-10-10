@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>🚀 Welcome to Shreeyan Ganji DEVOPS SRE Portal Shahapur🚀</h1>
+    <h1>🚀 Welcome to Shreeyan Veeresh Ganji DEVOPS SRE Portal Shahapur🚀</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
