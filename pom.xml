@@ -31,7 +31,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
         <!-- Sonar -->
-        <sonar.host.url>http://3.109.121.51:9000/</sonar.host.url>
+        <sonar.host.url>http://100.52.238.176:9000/</sonar.host.url>
         <sonar.login>admin</sonar.login>
         <sonar.password>admin123</sonar.password>
     </properties>
