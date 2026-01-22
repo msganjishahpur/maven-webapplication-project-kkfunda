@@ -7,7 +7,7 @@
 
     <groupId>com.kk</groupId>
     <artifactId>maven-web-application-kkfunda</artifactId>
-    <version>11.2.3-SNAPSHOT</version>
+    <version>11.2.4</version>
     <packaging>war</packaging>
 
     <name>maven-web-application</name>
