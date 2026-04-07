@@ -106,13 +106,13 @@
         <repository>
             <id>nexus</id>
             <name>Shreeyan Releases Nexus Repository</name>
-            <url>http://3.80.215.197:8081/repository/jio-release/</url>
+            <url>http://52.66.46.235:8081/repository/jio-release/</url>
         </repository>
 
         <snapshotRepository>
             <id>nexus</id>
             <name>Shreeyan Snapshot Nexus Repository</name>
-            <url>http://3.80.215.197:8081/repository/jio-snapshot/</url>
+            <url>http://52.66.46.235:8081/repository/jio-snapshot/</url>
         </snapshotRepository>
 
     </distributionManagement>
