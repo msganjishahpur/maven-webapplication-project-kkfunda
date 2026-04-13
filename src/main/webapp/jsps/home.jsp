@@ -91,7 +91,7 @@
 </div>
 
 <footer>
-    <p>© 2024 Shreeyan Ganji IT Training & Development Centern Shahpur</p>
+    <p>© 202 Diya Ganji IT Training & Development Center, Shahpur</p>
     <p><small>Powered by <a href="https://google.com/">Diya Ganji</a></small></p>
 </footer>
 
