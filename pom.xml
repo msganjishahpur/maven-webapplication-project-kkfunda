@@ -41,7 +41,7 @@
     <!-- ===================== -->
     <dependencies>
 
-        <!-- Spring Core -->
+        <!- - Spring Core -->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-core</artifactId>
