@@ -31,6 +31,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
         <!-- Sonar -->
+             <sonar.host.url>http://13.127.161.200:9000/</sonar.host.url>
          <sonar.token>squ_40b8731630da71643e9721c373d991b565cfa257</sonar.token>
     </properties>
 
